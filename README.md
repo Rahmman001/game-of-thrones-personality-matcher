@@ -1,4 +1,3 @@
-# game-of-thrones-personality-matcher
 # Game of Thrones Personality Matcher
 
 ## Overview
